@@ -10,6 +10,11 @@ Data Source: The Chicago Crimes Dataset is available [here](https://data.cityofc
 ## Tools: 
 Data wrangling and analysis were conducted using MySQL, and the visual representation was achieved with Tableau dashboards.
 
+## Dashboard
+<img src="Chicago_crime_dashboard.png">
+
+The dashboard can also be viewed through the presentation
+
 ## Key Findings: 
 <li>**Crime Count**: From 2008 to 2022, Chicago reported a total of 1,190,000 crime cases. 
 <li>**Most Common Crimes:** Theft and Battery emerged as the most prevalent crimes.
